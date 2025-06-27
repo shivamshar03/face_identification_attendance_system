@@ -16,6 +16,7 @@ This is a Streamlit-based application that uses [DeepFace](https://github.com/se
 
 ## 🗂️ Project Structure
 
+```
 face_attendance/  
 ├── .streamlit/  
 │   └── config.toml               ← Optional: custom theme settings  
@@ -27,7 +28,7 @@ face_attendance/
 │   └── ...  
 ├── attendance.csv                ← CSV file to store attendance records  
 └── requirements.txt  
-
+```
 ---
 
 ## ⚙️ Installation
