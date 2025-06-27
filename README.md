@@ -54,13 +54,13 @@ face_attendance/
 - Place one or more clear face images inside each folder.
 
 **Example:**
-
+```
 known_faces/  
 ├── Elon_Musk/  
 │   └── 1.jpg  
 ├── Taylor_Swift/  
 │   └── 1.jpg  
-
+```
 ---
 
 ## 📸 Camera Support
